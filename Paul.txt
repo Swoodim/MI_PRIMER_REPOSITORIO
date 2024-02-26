@@ -2,3 +2,5 @@ Hola mi nombre es paul
 y soy aprendiz de programador
 soy de venezuela
 y me gusta la programacion
+soy administrador
+me gustan las cachapas
